@@ -2,11 +2,19 @@
 
 <a href="https://www.linkedin.com/in/akash-pandey-5985361b8/">
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a><a href="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png">
-  <img align="left" width="75px" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png" />
+</a>
+<a href="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png">
+  <img align="left" width="40px" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png" />
 </a>
 
+<br>
 
+<p>
+  <em>
+    I am a 3rd Year undergraduate from <a href="https://stcet.org//"> <b>
+St. Thomas' College of Engineering & Technology</b></a>.  
+  </em>  
+</p>
 
 <!--
 **akashkinkarpandey/akashkinkarpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
