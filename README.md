@@ -1,4 +1,4 @@
-## Namaste developers 
+## Namaste Developers <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif" width="29">,I am Akash
 
 <!--
 **akashkinkarpandey/akashkinkarpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
