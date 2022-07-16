@@ -1,4 +1,4 @@
-# Namaste Developers <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif" width="29">,I am Akash <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/akash.gif" width="40"> <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Earth.gif" width="29"> :india:
+# Namaste Developers <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif" width="29">,I am Akash <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/akash.gif" width="40"> <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Earth.gif" width="29"> <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/indian-flag.jpg" width="29">
 
 ### Have a look at my profiles and connect with me 💬
 <a href="https://www.linkedin.com/in/akash-pandey-5985361b8/">
