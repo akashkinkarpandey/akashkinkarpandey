@@ -46,6 +46,8 @@ St. Thomas' College of Engineering & Technology</b></a>.
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akashkinkarpandey.akashkinkarpandey)
+![](https://komarev.com/ghpvc/?username=akashkinkarpandey&color=green&style=flat-square)
+
 
 <!--
 **akashkinkarpandey/akashkinkarpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
