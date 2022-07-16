@@ -45,6 +45,8 @@ St. Thomas' College of Engineering & Technology</b></a>.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkinkarpandey&show_icons=true&theme=dark&line_height=34" alt="Shubhamdeep's github stats"/>
 </a>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkinkarpandey&" alt="akashkinkarpandey" width="700" height="300" /></p> -->
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akashkinkarpandey.akashkinkarpandey)
 ![](https://komarev.com/ghpvc/?username=akashkinkarpandey&color=green&style=flat-square)
 
