@@ -6,14 +6,17 @@
 <a href="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png">
   <img align="left" width="40px" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png" />
 </a>
-
 <br>
-
+<br>
 <p>
+  <ul>
+  <li>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://stcet.org//"> <b>
+     I am a 3rd Year undergraduate from <a href="https://stcet.org//"> <b>
 St. Thomas' College of Engineering & Technology</b></a>.  
   </em>  
+  </li>
+  </ul>
 </p>
 
 <!--
