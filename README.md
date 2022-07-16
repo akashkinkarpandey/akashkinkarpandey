@@ -1,4 +1,4 @@
-## Namaste developers <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif](https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif)" width="29">, I am Akash! &nbsp;<img src="&nbsp;<img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif](https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Earth.gif)" width="24px">" width="24px">
+## Namaste developers 
 
 <!--
 **akashkinkarpandey/akashkinkarpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
