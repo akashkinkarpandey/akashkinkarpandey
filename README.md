@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/akash-pandey-5985361b8/">
   <img align="left" width="37px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png">
+<a href="https://www.youtube.com/channel/UC3vcUnSbG_1QlTK-yFnEXoA">
   <img align="left" width="40px" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png" />
 </a>
 <a href="mailto:akashkinkarpandey@gmail.com">
