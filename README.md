@@ -1,4 +1,12 @@
 ## Namaste Developers <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif" width="29">,I am Akash <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/akash.gif" width="40"> <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Earth.gif" width="40">
+
+<a href="https://www.linkedin.com/in/akash-pandey-5985361b8/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+
+
+
+
 <!--
 **akashkinkarpandey/akashkinkarpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
