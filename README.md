@@ -45,7 +45,7 @@ St. Thomas' College of Engineering & Technology</b></a>.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkinkarpandey&show_icons=true&theme=dark&line_height=34" alt="Shubhamdeep's github stats"/>
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=akashkinkarpandey.akashkinkarpandey)
 
 <!--
 **akashkinkarpandey/akashkinkarpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
