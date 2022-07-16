@@ -12,8 +12,13 @@
   <ul>
   <li>
   <em>
-     I am a 3rd Year undergraduate from <a href="https://stcet.org//"> <b>
+     I am a 3rd Year undergraduate from <a href="https://stcet.org/"> <b>
 St. Thomas' College of Engineering & Technology</b></a>.  
+  </em>  
+  </li>
+   <li>
+  <em>
+     Have a look at your college level programs in <ins> C, C++, Java, Python </ins> <a href="https://github.com/akashkinkarpandey/UniversityPrograms"> <b>here</b> </a> and <a href="https://github.com/akashkinkarpandey/Odd-Sem-Third-Year"> <b>here</b> </a> too.
   </em>  
   </li>
   </ul>
