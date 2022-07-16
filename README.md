@@ -1,9 +1,10 @@
-## Namaste Developers <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif" width="29">,I am Akash <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/akash.gif" width="40"> <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Earth.gif" width="40">
+## Namaste Developers <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Hi.gif" width="29">,I am Akash <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/akash.gif" width="40"> <img src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/Earth.gif" width="29">
 
 <a href="https://www.linkedin.com/in/akash-pandey-5985361b8/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a><a href="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png">
+  <img align="left" width="75px" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/youtube-logo.png" />
 </a>
-
 
 
 
