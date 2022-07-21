@@ -21,7 +21,7 @@
 <p>
   <ul>
   <li>
-  <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/gandalf.gif" width="20vw" />
+  <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/gandalf.gif" width="20" />
     
   <em>
      I am a 3rd Year undergraduate from <a href="https://stcet.org/"> <b>
@@ -30,7 +30,7 @@ St. Thomas' College of Engineering & Technology</b></a>.
   </li>
     
    <li>
-     <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/happy.gif" width="20vw" />
+     <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/happy.gif" width="20" />
   <em>
      Have a look at College level programs in <ins> C, C++, Java, Python </ins> <a href="https://github.com/akashkinkarpandey/UniversityPrograms"> <b>here</b> </a> and <a href="https://github.com/akashkinkarpandey/Odd-Sem-Third-Year"> <b>here</b> </a> too.
   </em>  
