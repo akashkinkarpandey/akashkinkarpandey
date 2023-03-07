@@ -38,12 +38,12 @@ St. Thomas' College of Engineering & Technology</b></a>.
     
   </ul>
 </p>
-<a href="https://github.com/akashkinkarpandey">
+<!-- <a href="https://github.com/akashkinkarpandey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkinkarpandey&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/akashkinkarpandey">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkinkarpandey&show_icons=true&theme=dark&line_height=34" alt="Shubhamdeep's github stats"/>
-</a>
+</a> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkinkarpandey&" alt="akashkinkarpandey" width="700" height="300" /></p> -->
 
