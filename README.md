@@ -39,7 +39,7 @@ St. Thomas' College of Engineering & Technology</b></a>.
   <li>
      <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/happy.gif" width="20" />
   <em>
-     I am currently working on <ins> REACTJS </ins>.You can find my <b>Youtube clone project<b> <a href="https://github.com/akashkinkarpandey/Youtube-Clone-React"> <b>here</b> </a> and  <b>Ecommerce Food App<b> <a href="https://github.com/akashkinkarpandey/Youtube-Clone-React"> <b>here</b> </a>.
+     I am currently working on <ins> REACTJS </ins>.You can find my <b>Youtube clone project<b> <a href="https://github.com/akashkinkarpandey/Youtube-Clone-React"> <b>here</b> </a> and  <b>Ecommerce Food App<b> <a href="https://github.com/akashkinkarpandey/Food-App-Akash"> <b>here</b> </a>.
   </em>  
   </li>
 
