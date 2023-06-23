@@ -43,7 +43,13 @@ St. Thomas' College of Engineering & Technology</b></a>.
   </em>  
   </li>
 
-
+  <li>
+  <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/gandalf.gif" width="20" />
+    
+  <em>
+     I have strong foundation in Data structures and Algorithms having solved over 500 problems on Leetcode and Geeks for Geeks in C++ mostly.
+  </em>  
+  </li>
     
   </ul>
 </p>
