@@ -18,7 +18,7 @@
 
 # About me
 
-<p>
+<h4>
   <ul>
   <li>
   <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/gandalf.gif" width="20" />
@@ -52,7 +52,7 @@ St. Thomas' College of Engineering & Technology</b></a>.
   </li>
     
   </ul>
-</p>
+</h4>
 <!-- <a href="https://github.com/akashkinkarpandey">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkinkarpandey&theme=dark&hide_langs_below=1" />
 </a>
