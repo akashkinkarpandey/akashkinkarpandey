@@ -24,7 +24,7 @@
   <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/gandalf.gif" width="20" />
     
   <em>
-     I am a 3rd Year undergraduate from <a href="https://stcet.org/"> <b>
+     I am a 4th Year undergraduate from <a href="https://stcet.org/"> <b>
 St. Thomas' College of Engineering & Technology</b></a>.  
   </em>  
   </li>
