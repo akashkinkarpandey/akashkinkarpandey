@@ -24,15 +24,14 @@
   <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/gandalf.gif" width="20" />
     
   <em>
-     I have graduated from <a href="https://stcet.org/"> <b>
-St. Thomas' College of Engineering & Technology</b></a>.  
+     I am passionate about Javascipt and building projects in ReactJS, NextJS.  
   </em>  
   </li>
     
    <li>
      <img alt="GIF" src="https://github.com/akashkinkarpandey/akashkinkarpandey/blob/main/to-be-used/happy.gif" width="20" />
   <em>
-     Have a look at my programs in <ins> C, C++, Java, Python </ins> <a href="https://github.com/akashkinkarpandey/UniversityPrograms"> <b>here</b> </a> and <a href="https://github.com/akashkinkarpandey/Odd-Sem-Third-Year"> <b>here</b> </a> too.
+     Have a look at my programs <a href="https://github.com/akashkinkarpandey?tab=repositories"> <b>here</b>.
   </em>  
   </li>
 
